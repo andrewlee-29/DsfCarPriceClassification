@@ -36,6 +36,7 @@ Inference methods used with Scikit:
 
 ![alt text](https://github.com/asdrewlee23/DsfCarPriceClassification/blob/main/decision%20_tree.png)
 ![alt text](https://github.com/asdrewlee23/DsfCarPriceClassification/blob/main/Result.png)
+![alt text](https://github.com/asdrewlee23/DsfCarPriceClassification/blob/main/Result2.png)
 ## Discussion
 From the result, we can see the feauture engine HP and population are the most realted features to the car price.
 
