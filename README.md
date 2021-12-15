@@ -32,6 +32,7 @@ Inference methods used with Scikit:
 1. I split the data as 75% training data and 25% testing data.
 2. I use scikit-learn  Decision Tree model and random forest model.
 ## Results
+
 (https://github.com/asdrewlee23/DsfCarPriceClassification/blob/main/DecisionTree.py)
 (https://github.com/asdrewlee23/DsfCarPriceClassification/blob/main/Result.png)
 ## Discussion
