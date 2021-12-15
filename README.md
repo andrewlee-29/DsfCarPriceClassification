@@ -32,8 +32,8 @@ Inference methods used with Scikit:
 1. I split the data as 75% training data and 25% testing data.
 2. I use scikit-learn  Decision Tree model and random forest model.
 ## Results
-`decision _tree.png`
-`Result.png`
+(https://github.com/asdrewlee23/DsfCarPriceClassification/blob/main/DecisionTree.py)
+(https://github.com/asdrewlee23/DsfCarPriceClassification/blob/main/Result.png)
 ## Discussion
 As the
 Without any limit(default setting), The decision tree model and random forest tree model results are around 97% which is close to 100%. It is definitely overfitting. To optimize the model, I tried to set the maximum tree depth. As the result, the tree is a sightly drop down to 95% when I set the tree depth to 2.
