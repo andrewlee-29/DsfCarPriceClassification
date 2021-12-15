@@ -33,8 +33,8 @@ Inference methods used with Scikit:
 2. I use scikit-learn  Decision Tree model and random forest model.
 ## Results
 
-!(https://github.com/asdrewlee23/DsfCarPriceClassification/blob/main/DecisionTree.py)
-!(https://github.com/asdrewlee23/DsfCarPriceClassification/blob/main/Result.png)
+![alt text](https://github.com/asdrewlee23/DsfCarPriceClassification/blob/main/decision%20_tree.png)
+![alt text](https://github.com/asdrewlee23/DsfCarPriceClassification/blob/main/Result.png)
 ## Discussion
 From the result, we can see the feauture engine HP is the most realted feature to the car price.
 
